@@ -14,5 +14,6 @@
 //= require redux
 //= require react-redux
 //= require react_ujs
+//= require components/sample
 //= require turbolinks
 //= require_tree .
